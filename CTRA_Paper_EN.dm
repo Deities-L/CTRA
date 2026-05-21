@@ -1,6 +1,6 @@
 # CTRA: An Endogenously Secure General Artificial Intelligence Architecture Based on Conjugate Dual-Ring Topological Manifolds
 
-**Author:** Lu Xirui (陆曦睿)  
+**Author:** Lu Xirui   
 **Affiliation:** Independent Researcher  
 **Date:** May 19, 2026
 
